@@ -1,6 +1,8 @@
 # OpenJML Plugin for IntelliJ IDEA  
 This Plugin provides the OpenJML/ESC to IntelliJ IDEA. 
 
+Note: The official plugin only support IntelliJ IDEA 2018.2 and lower. This version is recompiled and changed a bit by Sheryc, to support IntelliJ IDEA 2019.1.
+
 ## Getting started
 
 ### Installtion
@@ -15,4 +17,3 @@ After you successfully installed the plugin you have to choose how you want to g
 To use the plugin you have to configure it. Go to the intellij settings an choose the OpenJML tab. 
 1. Set the path to the openjml commandline tool if you had downloaded it manually. Otherwise click the download button and choose a directory where to download the openjml commanline tool.
 2. Choose a solver which is shipped with the commandline tool or set the path to a custom solver.
-
